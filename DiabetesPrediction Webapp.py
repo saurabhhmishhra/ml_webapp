@@ -8,6 +8,7 @@ Created on Sun Apr  6 12:31:03 2025
 import numpy as np
 import pickle
 import streamlit as st
+import sklearn
 
 
 # loading the saved model
